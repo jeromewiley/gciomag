@@ -1,6 +1,8 @@
+
 sites/*/*settings*.php
 
 sites/*/files
+
 
 robots.txt
 /CHANGELOG.txt
@@ -11,5 +13,7 @@ robots.txt
 /UPGRADE.txt
 /README.txt
 
+
 .htaccess
+
 
